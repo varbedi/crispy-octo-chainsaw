@@ -1,4 +1,0 @@
-Installation on IIS
--------------------
-
-Content goes here
